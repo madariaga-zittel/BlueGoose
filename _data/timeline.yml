@@ -1,0 +1,40 @@
+- year: "1935"
+  date: December 9
+  title: Keel laid
+  text: Construction began at the New York Navy Yard.
+  image: /assets/images/ship/construction.jpg
+- year: "1937"
+  date: August 26
+  title: Launched
+  text: Honolulu entered the water as a Brooklyn-class light cruiser.
+  image: /assets/images/ship/launching.jpg
+- year: "1938"
+  date: June 15
+  title: Commissioned
+  text: U.S.S. Honolulu joined the United States Navy.
+  image: /assets/images/ship/christened.jpg
+- year: "1941"
+  date: December 7
+  title: Pearl Harbor
+  text: A near-miss bomb blast damaged the ship while she was at Pearl Harbor, causing serious hull deformation and flooding.
+  image: /assets/images/ship/damaged4.jpg
+- year: "1942"
+  date: November 30
+  title: Battle of Tassafaronga
+  text: Honolulu fought in the night action off Guadalcanal as the Pacific campaign intensified.
+  image: /assets/images/backgrounds/battle.jpg
+- year: "1943"
+  date: July 13
+  title: Battle of Kolombangara
+  text: A torpedo struck Honolulu’s starboard side, forcing major repairs.
+  image: /assets/images/ship/torpedohole.jpg
+- year: "1944"
+  date: October 20
+  title: Leyte operations
+  text: Honolulu supported the invasion of Leyte and was again struck by a torpedo during the campaign.
+  image: /assets/images/ship/invasion.jpg
+- year: "1947"
+  date: February 3
+  title: Decommissioned
+  text: Honolulu was placed out of commission after a distinguished wartime career.
+  image: /assets/images/ship/moored.jpg

@@ -1,0 +1,54 @@
+- file: /assets/images/ship/underway.jpg
+  title: Underway
+  category: ship
+- file: /assets/images/ship/launching.jpg
+  title: Launching
+  category: construction
+- file: /assets/images/ship/christened.jpg
+  title: Christening ceremony
+  category: construction
+- file: /assets/images/ship/anchored.jpg
+  title: At anchor
+  category: ship
+- file: /assets/images/ship/broadside.jpg
+  title: Broadside view
+  category: ship
+- file: /assets/images/ship/starboard5.jpg
+  title: Starboard profile
+  category: ship
+- file: /assets/images/ship/sailors.jpg
+  title: Sailors aboard Honolulu
+  category: crew
+- file: /assets/images/ship/sailors2.jpg
+  title: Shipmates
+  category: crew
+- file: /assets/images/ship/sailors3.jpg
+  title: Crew photograph
+  category: crew
+- file: /assets/images/crew/snowie.jpg
+  title: James Ervin “Snowie” Zittel
+  category: snowie
+- file: /assets/images/crew/snowie2.jpg
+  title: Snowie Zittel
+  category: snowie
+- file: /assets/images/ship/damaged4.jpg
+  title: Pearl Harbor damage
+  category: damage
+- file: /assets/images/ship/drydocked2.jpg
+  title: In dry dock
+  category: damage
+- file: /assets/images/ship/torpedohole.jpg
+  title: Torpedo damage
+  category: damage
+- file: /assets/images/ship/repair.jpg
+  title: Repairs underway
+  category: damage
+- file: /assets/images/ship/south-pacific.jpg
+  title: South Pacific service
+  category: wartime
+- file: /assets/images/ship/invasion.jpg
+  title: Invasion operations
+  category: wartime
+- file: /assets/images/ship/refueling.jpg
+  title: Refueling at sea
+  category: wartime

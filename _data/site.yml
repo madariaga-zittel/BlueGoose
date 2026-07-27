@@ -1,0 +1,24 @@
+grandfather:
+  name: James Ervin “Snowie” Zittel
+  short_name: Snowie Zittel
+  portrait: /assets/images/crew/snowie.jpg
+  portrait_alt: James Ervin “Snowie” Zittel seated outdoors in Navy work clothing.
+  service_note: Served aboard the U.S.S. Honolulu during World War II.
+  biography: >-
+    This memorial was created in honor of James Ervin “Snowie” Zittel and the men who served aboard the U.S.S. Honolulu. Add family-verified dates, rank, division, hometown, stories, and service details here.
+ship:
+  name: U.S.S. Honolulu
+  hull: CL-48
+  nickname: The Blue Goose
+  class: Brooklyn-class light cruiser
+  launched: August 26, 1937
+  commissioned: June 15, 1938
+  decommissioned: February 3, 1947
+  length: 608 ft 4 in overall
+  beam: 61 ft 9 in
+  speed: 32.5 knots
+  complement: Approximately 868 officers and enlisted
+  battle_stars: 8
+contact:
+  email: ""
+  note: "Add a public family contact email in _data/site.yml to enable the email button."
