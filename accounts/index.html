@@ -1,0 +1,5 @@
+---
+layout: default
+title: Personal Accounts
+---
+<section class="page-hero accounts-hero"><div class="shell"><p class="eyebrow">Letters, memories, and oral history</p><h1>Personal Accounts</h1><p>Firsthand voices add human context to official records.</p></div></section><section class="paper-section"><div class="shell narrow"><div class="account-list">{% for account in site.accounts %}<a href="{{ account.url | relative_url }}"><span>{{ account.date_text | default: 'Date unknown' }}</span><h2>{{ account.title }}</h2><p>{{ account.author }}</p></a>{% endfor %}<div class="editor-note"><strong>No recovered database export was included in the original ZIP.</strong> Add each account as a Markdown file in <code>_accounts</code>. A starter example is included.</div></div></div></section>
