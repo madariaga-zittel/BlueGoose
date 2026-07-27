@@ -1,10 +1,16 @@
 title: "The Blue Goose"
 subtitle: "U.S.S. Honolulu (CL-48)"
 description: "A memorial to James Ervin ‘Snowie’ Zittel, the U.S.S. Honolulu, and the sailors who served aboard her."
-url: ""
-baseurl: ""
+
+# GitHub Pages project-site address:
+# https://madariaga-zittel.github.io/BlueGoose/
+url: "https://madariaga-zittel.github.io"
+baseurl: "/BlueGoose"
+repository: "madariaga-zittel/BlueGoose"
+
 permalink: pretty
 markdown: kramdown
+
 collections:
   crew:
     output: true
@@ -12,11 +18,13 @@ collections:
   accounts:
     output: true
     permalink: /accounts/:name/
+
 defaults:
   - scope: {path: "", type: crew}
     values: {layout: crew-profile}
   - scope: {path: "", type: accounts}
     values: {layout: account}
+
 exclude:
   - README.md
   - Gemfile
