@@ -1,0 +1,5 @@
+---
+layout: default
+title: Timeline
+---
+<section class="page-hero timeline-hero"><div class="shell"><p class="eyebrow">1935–1947</p><h1>Wartime Timeline</h1><p>From construction to decommissioning, with space to add Snowie’s personal milestones alongside the ship’s history.</p></div></section><section class="paper-section"><div class="shell timeline">{% for event in site.data.timeline %}<article class="timeline-event"><div class="timeline-date"><strong>{{ event.year }}</strong><span>{{ event.date }}</span></div><div class="timeline-body"><img src="{{ event.image | relative_url }}" alt=""><div><h2>{{ event.title }}</h2><p>{{ event.text }}</p></div></div></article>{% endfor %}</div></section>
