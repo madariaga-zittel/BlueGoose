@@ -1,8 +1,10 @@
 ---
 title: Charles E. Frederickson
-image: /assets/images/archive/514537167_24851933227725600_7634269683456372650_n.jpg
+image: /assets/images/crew/charles-e-frederickson/514259853_24852254531026803_4277948731049532662_n.jpg
 image_alt: Charles E. Frederickson, associated with the U.S.S. Honolulu archive.
 rank: Radioman and ship’s photographer
+slug: charles-e-frederickson
+photo_count: 3
 ---
 
 The archive identifies Charles E. Frederickson as one of the ship’s photographers. It also describes him as a radioman, aerial gunner, combat air crewman, and aerial photographer aboard the U.S.S. Honolulu.

@@ -1,8 +1,10 @@
 ---
 title: Clevie Price
-image: /assets/images/archive/513936362_24807723428813247_6467242117875268128_n.jpg
+image: /assets/images/crew/groups/513936362_24807723428813247_6467242117875268128_n.jpg
 image_alt: Clevie Price, associated with the U.S.S. Honolulu archive.
 rank: U.S. Marine Corps
+slug: clevie-price
+photo_count: 1
 ---
 
 Identified in the back row with John Bainbridge in a photograph of Blue Goose Marines wearing leis.

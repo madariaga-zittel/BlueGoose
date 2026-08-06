@@ -1,9 +1,11 @@
 ---
 title: Oscar Smith
-image: /assets/images/archive/512706293_24824734177112172_9219745137992740511_n.jpg
+image: /assets/images/crew/captain-oscar-smith/512706293_24824734177112172_9219745137992740511_n.jpg
 image_alt: Oscar Smith, associated with the U.S.S. Honolulu archive.
 rank: Captain, U.S. Navy
 service_dates: Commanding officer circa 1938–1939
+slug: captain-oscar-smith
+photo_count: 1
 ---
 
 Identified as commanding officer of the U.S.S. Honolulu circa 1938–1939.

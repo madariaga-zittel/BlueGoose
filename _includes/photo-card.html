@@ -1,0 +1,4 @@
+<button class="gallery-item archive-card" data-category="{{ include.photo.section }}" data-full="{{ include.photo.file | relative_url }}" data-title="{{ include.photo.title | escape }}" data-description="{{ include.photo.description | escape }}">
+  <img loading="lazy" src="{{ include.photo.file | relative_url }}" alt="{{ include.photo.title | escape }}">
+  <span><strong>{{ include.photo.title }}</strong>{% if include.photo.description and include.photo.description != include.photo.title %}<small>{{ include.photo.description }}</small>{% endif %}</span>
+</button>

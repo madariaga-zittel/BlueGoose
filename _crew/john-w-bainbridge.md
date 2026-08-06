@@ -1,9 +1,11 @@
 ---
 title: John W. Bainbridge
-image: /assets/images/archive/513314268_24806045745647682_2805668824315543325_n.jpg
+image: /assets/images/crew/john-w-bainbridge/513314268_24806045745647682_2805668824315543325_n.jpg
 image_alt: John W. Bainbridge, associated with the U.S.S. Honolulu archive.
 rank: U.S. Marine Corps
 service_dates: Transferred in 1943
+slug: john-w-bainbridge
+photo_count: 2
 ---
 
 Identified as the Marine in the first row, center, in the submitted photograph. The description says he transferred from the Honolulu to Annapolis in 1943.
