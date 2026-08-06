@@ -1,0 +1,6 @@
+---
+layout: default
+title: The Marines of the Blue Goose
+---
+<section class="page-hero compact"><div class="shell"><p class="eyebrow">Digital museum collection</p><h1>The Marines of the Blue Goose</h1><p>The ship’s Marine detachment, identified Marines, group photographs, and shore-leave images.</p></div></section>
+<section class="paper-section"><div class="shell"><div class="gallery-grid">{% for photo in site.data.photos %}{% if photo.section == 'marines' %}{% include photo-card.html photo=photo %}{% endif %}{% endfor %}</div></div></section>

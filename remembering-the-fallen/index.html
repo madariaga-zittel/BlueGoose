@@ -1,0 +1,6 @@
+---
+layout: default
+title: Remembering the Fallen
+---
+<section class="page-hero compact"><div class="shell"><p class="eyebrow">Digital museum collection</p><h1>Remembering the Fallen</h1><p>A place of remembrance for the sailors and Marines lost during the ship’s wartime service. The supplied archive describes more than 70 lives lost in the Leyte torpedo strike; a verified name-by-name roster has not yet been supplied.</p></div></section>
+<section class="paper-section"><div class="shell"><div class="gallery-grid">{% for photo in site.data.photos %}{% if photo.section == 'damage' %}{% include photo-card.html photo=photo %}{% endif %}{% endfor %}</div></div></section>
